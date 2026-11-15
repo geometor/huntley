@@ -1,0 +1,162 @@
+{
+  "catalog": "huntley",
+  "title": "The Divine Proportion: A Study in Mathematical Beauty",
+  "author": "Herbert Edwin Huntley (1892 – 1975)",
+  "publication": {
+    "publisher": "Dover Publications, New York (Dover Original)",
+    "year": 1970,
+    "release_date": "1970-06",
+    "isbn_10": "0-486-22254-3",
+    "isbn_print": "978-0-486-22254-7",
+    "isbn_ebook": "978-0-486-13187-0",
+    "pagination": "xii + 186 pp.",
+    "notation": "phi = (1 + sqrt(5))/2; phi' = (1 - sqrt(5))/2 (negative conjugate)",
+    "archive_org_cdl": "https://archive.org/details/divineproportion0000hunt_o2w9",
+    "dover_store": "https://store.doverpublications.com/products/9780486222547"
+  },
+  "chapters": [
+    { "roman": "I", "title": "The Texture of Beauty", "pages": "1-22" },
+    { "roman": "II", "title": "The Divine Proportion", "pages": "23-34" },
+    { "roman": "III", "title": "Analysis of Beauty", "pages": "35-45" },
+    { "roman": "IV", "title": "Phi and Fi-Bonacci", "pages": "46-57" },
+    { "roman": "V", "title": "Art and the Golden Rectangle", "pages": "58-66" },
+    { "roman": "VI", "title": "Beauty in Mathematics", "pages": "67-70" },
+    { "roman": "VII", "title": "Simple Examples of Aesthetic Interest", "pages": "71-102" },
+    { "roman": "VIII", "title": "Further Examples", "pages": "103-117" },
+    { "roman": "IX", "title": "Patterns", "pages": "118-130" },
+    { "roman": "X", "title": "Pascal's Triangle and Fibonacci", "pages": "131-136" },
+    { "roman": "XI", "title": "The Fibonacci Numbers", "pages": "137-147" },
+    { "roman": "XII", "title": "Nature's Golden Numbers", "pages": "148-163" },
+    { "roman": "XIII", "title": "Spira Mirabilis", "pages": "164-182" }
+  ],
+  "entries": [
+    {
+      "id": "HUNT-02.01",
+      "chapter": "Ch. II",
+      "title": "Euclid II.11 & VI.30 Internal/External Division in Extreme and Mean Ratio",
+      "source_locus": "Ch. II, pp. 23-28",
+      "field": "Q(phi)",
+      "status": "planned"
+    },
+    {
+      "id": "HUNT-02.02",
+      "chapter": "Ch. II",
+      "title": "1:2:sqrt(5) Right-Triangle Secant Hypotenuse Transfer",
+      "source_locus": "Ch. II, pp. 26-29",
+      "field": "Q(phi)",
+      "status": "planned"
+    },
+    {
+      "id": "HUNT-02.03",
+      "chapter": "Ch. II",
+      "title": "Regular Pentagon, Pentagram, Golden Triangle (72-72-36) & Golden Gnomon (36-36-108)",
+      "source_locus": "Ch. II, pp. 29-34",
+      "field": "Q(phi, sqrt(10 - 2*sqrt(5)))",
+      "status": "planned"
+    },
+    {
+      "id": "HUNT-03.01",
+      "chapter": "Ch. III",
+      "title": "Huntley's 3-4-5 Egyptian Right-Triangle Angle Bisector Circle",
+      "source_locus": "Ch. III, pp. 43-44",
+      "field": "Q(phi)",
+      "status": "planned"
+    },
+    {
+      "id": "HUNT-04.01",
+      "chapter": "Ch. IV",
+      "title": "Power Linearization phi^n = F_n*phi + F_{n-1}, Continued Fraction & Nested Radical",
+      "source_locus": "Ch. IV, pp. 46-57",
+      "field": "Q(phi)",
+      "status": "planned"
+    },
+    {
+      "id": "HUNT-05.01",
+      "chapter": "Ch. V",
+      "title": "Whirling-Square Golden Rectangle Subdivision & Perpendicular Diagonals",
+      "source_locus": "Ch. V, pp. 58-64",
+      "field": "Q(phi)",
+      "status": "planned"
+    },
+    {
+      "id": "HUNT-05.02",
+      "chapter": "Ch. V",
+      "title": "The Golden Ellipse (a/b = phi, e = 1/sqrt(phi), b^2 = a*c, Kepler Focus Triangle)",
+      "source_locus": "Ch. V, p. 65; Fibonacci Quarterly 12(1), 1974, pp. 38-40",
+      "field": "Q(sqrt(phi))",
+      "status": "planned"
+    },
+    {
+      "id": "HUNT-07.01",
+      "chapter": "Ch. VII",
+      "title": "Kepler's 1:sqrt(phi):phi Right Triangle & Triangles Bounded by Phi",
+      "source_locus": "Ch. II p. 23 & Ch. VII",
+      "field": "Q(sqrt(phi))",
+      "status": "planned"
+    },
+    {
+      "id": "HUNT-07.02",
+      "chapter": "Ch. VII",
+      "title": "The Pill-Maker Circle Tangency & Inscribed Circle Golden Loci",
+      "source_locus": "Ch. VII",
+      "field": "Q(phi)",
+      "status": "planned"
+    },
+    {
+      "id": "HUNT-08.01",
+      "chapter": "Ch. VIII",
+      "title": "Three Mutually Orthogonal Golden Rectangles Spanning Icosahedron & Dodecahedron",
+      "source_locus": "Ch. VIII, pp. 103-117",
+      "field": "Q(phi)",
+      "status": "planned"
+    },
+    {
+      "id": "HUNT-09.01",
+      "chapter": "Ch. IX",
+      "title": "Planar Tessellations & 64 = 65 Fibonacci Area-Dissection Slope",
+      "source_locus": "Ch. IX, pp. 118-130",
+      "field": "Q(phi)",
+      "status": "planned"
+    },
+    {
+      "id": "HUNT-10.01",
+      "chapter": "Ch. X",
+      "title": "Pascal's Triangle Rising Shallow Diagonals Summing to F_n",
+      "source_locus": "Ch. X, pp. 131-136",
+      "field": "Q",
+      "status": "planned"
+    },
+    {
+      "id": "HUNT-11.01",
+      "chapter": "Ch. XI",
+      "title": "Binet's Formula, Lucas Companions, Cassini Identity & Sum of Fibonacci Squares",
+      "source_locus": "Ch. XI, pp. 137-147",
+      "field": "Q(phi)",
+      "status": "planned"
+    },
+    {
+      "id": "HUNT-12.01",
+      "chapter": "Ch. XII",
+      "title": "Multiple Internal Light Reflections Across Two Stacked Glass Plates (F_{k+2} Paths)",
+      "source_locus": "Ch. XII, pp. 148-163",
+      "field": "Q",
+      "status": "planned"
+    },
+    {
+      "id": "HUNT-12.02",
+      "chapter": "Ch. XII",
+      "title": "Phyllotaxis Parastichies, Golden Angle (360/phi^2) & Drone Bee Genealogy",
+      "source_locus": "Ch. XII, pp. 148-163",
+      "field": "Q(phi)",
+      "status": "planned"
+    },
+    {
+      "id": "HUNT-13.01",
+      "chapter": "Ch. XIII",
+      "title": "Spira Mirabilis, Whirling Golden Triangle Pole & Evolute/Pedal Invariance",
+      "source_locus": "Ch. XIII, pp. 164-182",
+      "field": "Q(phi)",
+      "status": "planned"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "catalog": "huntley",
+  "lineage": [
+    "H. E. Huntley, The Divine Proportion (Dover, 1970)",
+    "Dr. Ron Knott, Fibonacci Numbers and the Golden Section (1996-2025, geometor/knott)",
+    "Alexander Bogomolny, Cut-the-Knot GoldenRatio & GoldenRatio345 (1996-2018, geometor/divine)",
+    "Alfred S. Posamentier & Ingmar Lehmann, The Glorious Golden Ratio (2011/2012, geometor/posamentier)"
+  ],
+  "scholarly_note_geometrographie": "Huntley (1970) does not cite Emile Lemoine's Geometrographie (1902); Lemoine's simplicity scores entered English golden-ratio comparisons via Howard Eves, Duane W. DeTemple (1991), Kurt Hofstetter (2002), and Alexander Bogomolny.",
+  "sister_repositories": ["divine", "knott", "posamentier", "lemoine", "apollonius", "polyhedra", "phyllotaxis", "trees", "thompson"],
+  "mappings": [
+    { "huntley_id": "HUNT-02.01", "classification": "equivalent", "divine": "GC-01.01", "knott": "KNOTT-1.1", "posamentier": "POS-1.01", "sister": "lemoine:Prob.XXXVI, elements:G.60" },
+    { "huntley_id": "HUNT-02.02", "classification": "equivalent", "divine": "GC-01.02", "knott": "KNOTT-1.1", "posamentier": "POS-1.02", "sister": "lemoine:Prob.XXXVI, elements:G.185" },
+    { "huntley_id": "HUNT-02.03", "classification": "equivalent", "divine": "GC-05.01", "knott": "KNOTT-1.3, KNOTT-1.4", "posamentier": "Ch. 4", "sister": "elements:G.122 (IV.10)" },
+    { "huntley_id": "HUNT-03.01", "classification": "equivalent", "divine": "GC-04.01", "knott": null, "posamentier": "POS-1.10", "sister": "euclid:III.36, VI.3" },
+    { "huntley_id": "HUNT-04.01", "classification": "equivalent", "divine": null, "knott": "KNOTT-4.1", "posamentier": "Ch. 3", "sister": "fibonacci" },
+    { "huntley_id": "HUNT-05.01", "classification": "equivalent", "divine": null, "knott": "KNOTT-1.2", "posamentier": "Ch. 4", "sister": "pacioli" },
+    { "huntley_id": "HUNT-05.02", "classification": "net-new", "divine": "bridges:GC-04.02", "knott": null, "posamentier": "Ch. 4", "sister": "apollonius, kepler" },
+    { "huntley_id": "HUNT-07.01", "classification": "equivalent", "divine": "GC-04.02", "knott": "KNOTT-1.5", "posamentier": "Ch. 4", "sister": "kepler" },
+    { "huntley_id": "HUNT-07.02", "classification": "net-new", "divine": "bridges:06-circles-sangaku", "knott": null, "posamentier": "Ch. 5", "sister": null },
+    { "huntley_id": "HUNT-08.01", "classification": "equivalent", "divine": null, "knott": "KNOTT-3.1, KNOTT-3.2", "posamentier": "Ch. 4", "sister": "polyhedra:build_icosahedron_golden_rectangles" },
+    { "huntley_id": "HUNT-09.01", "classification": "equivalent", "divine": "GC-07.06", "knott": "KNOTT-6.2", "posamentier": "Ch. 5", "sister": null },
+    { "huntley_id": "HUNT-10.01", "classification": "net-new", "divine": null, "knott": "KNOTT-6.3", "posamentier": "Ch. 5", "sister": "fibonacci" },
+    { "huntley_id": "HUNT-11.01", "classification": "equivalent", "divine": null, "knott": "KNOTT-6.3", "posamentier": "Ch. 3", "sister": "fibonacci" },
+    { "huntley_id": "HUNT-12.01", "classification": "net-new", "divine": null, "knott": "KNOTT-5.1", "posamentier": "Ch. 3", "sister": "trees" },
+    { "huntley_id": "HUNT-12.02", "classification": "equivalent", "divine": null, "knott": "KNOTT-6.5", "posamentier": "Ch. 6", "sister": "phyllotaxis, thompson" },
+    { "huntley_id": "HUNT-13.01", "classification": "variant", "divine": null, "knott": "KNOTT-1.2, KNOTT-1.3", "posamentier": "Ch. 4, Ch. 6", "sister": "thompson" }
+  ]
+}

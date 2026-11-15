@@ -1,0 +1,28 @@
+{
+  "persons": [
+    {
+      "id": "h-e-huntley",
+      "name": "Herbert Edwin ('Ted') Huntley",
+      "dates": "December 31, 1892 – August 19, 1975",
+      "role": "Primary Author (Physicist, F.Inst.P., University of Bristol & University College of the Gold Coast; retired to Hutton, Somerset)",
+      "work": "The Divine Proportion: A Study in Mathematical Beauty (Dover, 1970)"
+    },
+    {
+      "id": "kepler",
+      "name": "Johannes Kepler",
+      "dates": "1571 – 1630",
+      "role": "Astronomer & Geometer (1:sqrt(phi):phi Right Triangle, 1597)"
+    },
+    {
+      "id": "jacob-bernoulli",
+      "name": "Jacob Bernoulli",
+      "dates": "1655 – 1705",
+      "role": "Mathematician (Spira Mirabilis, Equiangular Logarithmic Spiral)"
+    },
+    {
+      "id": "phi-architect",
+      "name": "phi ARCHITECT",
+      "role": "GEOMETOR Curator & Symbolic Modeler"
+    }
+  ]
+}
