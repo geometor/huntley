@@ -13,7 +13,7 @@ Mission
 Catalogs in This Archive
 ------------------------
 
-- **`The Divine Proportion — Mathematical Catalog & Concordance <https://geometor.github.io/huntley/catalog/>`_** — Exact symbolic catalog and cross-corpus concordance of H. E. Huntley's geometric and aesthetic theorems.
+- `The Divine Proportion — Mathematical Catalog & Concordance <https://geometor.github.io/huntley/catalog/>`_ — Exact symbolic catalog and cross-corpus concordance of H. E. Huntley's geometric and aesthetic theorems.
 
 Repository Contents
 -------------------
