@@ -15,15 +15,6 @@ Catalogs in This Archive
 
 - `The Divine Proportion — Mathematical Catalog & Concordance <https://geometor.github.io/huntley/catalog/>`_ — Exact symbolic catalog and cross-corpus concordance of H. E. Huntley's geometric and aesthetic theorems.
 
-Python Package & Modules
-------------------------
-
-The ``geometor-huntley`` Python package (``import geometor.huntley``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
-
-- ``catalog.py`` — Catalog manifest loader and exact-symbolic validation helpers.
-- ``app.py`` — Command-line interface for ``geometor.huntley``.
-
-See the `API Reference <https://geometor.github.io/huntley/modules/>`_ for full module documentation.
 
 Repository Contents
 -------------------
