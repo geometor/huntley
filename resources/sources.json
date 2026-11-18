@@ -1,0 +1,22 @@
+{
+  "repository": "geometor/huntley",
+  "rights_category": "non-derivative-catalog",
+  "sources": [
+    {
+      "id": "huntley-1970-dover",
+      "title": "The Divine Proportion: A Study in Mathematical Beauty (1970)",
+      "author": "H. E. Huntley",
+      "year": "1970",
+      "era": "17 U.S.C. § 102(b) Catalog",
+      "languages": [
+        "English"
+      ],
+      "site_url": "https://archive.org/details/divineproportion0000hunt_o2w9",
+      "local_path": "resources/catalog_manifest.json",
+      "pages": null,
+      "publisher": "Dover Publications, New York",
+      "rights": "Non-derivative symbolic catalog (17 U.S.C. § 102(b))",
+      "excerpt": "Independent symbolic catalog indexing golden triangles, Lemoine scores, and Fibonacci identities."
+    }
+  ]
+}
