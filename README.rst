@@ -3,6 +3,17 @@ GEOMETOR • huntley
 
 **Visit the Online Archive:** https://geometor.github.io/huntley/
 
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • huntley Medallion
+   :target: https://geometor.github.io/huntley/
+   :width: 180px
+   :align: center
+
+.. image:: docsrc/_static/social/banner.png
+   :alt: GEOMETOR • huntley featured graphic
+   :target: https://geometor.github.io/huntley/
+   :align: center
+
 **H. E. Huntley • The Divine Proportion • semantic digital archive**
 
 Mission
