@@ -5,7 +5,7 @@ authors = [
   { name = "phiarchitect", email = "github@geometor.com" },
 ]
 description = "Exact symbolic mathematical catalog and concordance inspired by The Divine Proportion: A Study in Mathematical Beauty (H. E. Huntley)"
-readme = "README.rst"
+readme = "README.md"
 requires-python = ">=3.13"
 license = { file = "LICENSE" }
 classifiers = [
