@@ -6,6 +6,8 @@
 :layout: book
 :book_title: The Divine Proportion — Mathematical Catalog & Concordance
 :author: H. E. Huntley (1970) · Exact Synthesis by GEOMETOR
+:year: 1970
+:edition_year: 2026
 :excerpt: An exact symbolic mathematical catalog and cross-corpus concordance inspired by H. E. Huntley's classic 1970 treatise The Divine Proportion: A Study in Mathematical Beauty.
 
 .. _huntley-catalog:
