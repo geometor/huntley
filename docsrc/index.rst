@@ -10,7 +10,7 @@ H. E. Huntley
    :alt: H. E. Huntley Medallion
    :class: repo-medallion-hero
 
-**H. E. Huntley** (1892–1975) captured the quiet elegance of mathematical beauty in *The Divine Proportion* (1970), weaving together the golden section $\phi$, Fibonacci numbers, Kepler's right triangle, and equiangular spirals into a classic English anthology. From the 3–4–5 Egyptian triangle's angle-bisector circle to three mutually orthogonal golden rectangles spanning the icosahedron, Huntley illuminated geometry through economy and surprise. This mathematical catalog formalizes his thirteen chapters in exact symbolic algebra over $\mathbb{Q}(\sqrt{5})$.
+**H. E. Huntley** (1892–1975) captured the quiet elegance of mathematical beauty in *The Divine Proportion* (1970), weaving together the golden section :math:`\phi`, Fibonacci numbers, Kepler's right triangle, and equiangular spirals into a classic English anthology. From the 3–4–5 Egyptian triangle's angle-bisector circle to three mutually orthogonal golden rectangles spanning the icosahedron, Huntley illuminated geometry through economy and surprise. This mathematical catalog formalizes his thirteen chapters in exact symbolic algebra over :math:`\mathbb{Q}(\sqrt{5})`.
 
 Inside This Reference
 ---------------------
@@ -36,15 +36,15 @@ Key Features
 
    .. container:: home-feature-card
 
-      **Exact $\mathbb{Q}(\sqrt{5})$ Algebra**
+      **Exact** :math:`\mathbb{Q}(\sqrt{5})` **Algebra**
 
-      Every geometric construction and identity is modeled in 100% exact SymPy arithmetic over $\phi = \frac{1+\sqrt{5}}{2}$ and $\phi' = \frac{1-\sqrt{5}}{2}$, free of floating-point approximation.
+      Every geometric construction and identity is modeled in 100% exact SymPy arithmetic over :math:`\phi = \frac{1+\sqrt{5}}{2}` and :math:`\phi' = \frac{1-\sqrt{5}}{2}`, free of floating-point approximation.
 
    .. container:: home-feature-card
 
       **Thirteen-Chapter Atomic Index**
 
-      Each theorem and curiosity—from Euclid II.11 / VI.30 and the $72^\circ\text{-}72^\circ\text{-}36^\circ$ Golden Triangle to Cassini's dissection—is tagged with exact page references and algebraic invariants.
+      Each theorem and curiosity—from Euclid II.11 / VI.30 and the :math:`72^\circ\text{-}72^\circ\text{-}36^\circ` Golden Triangle to Cassini's dissection—is tagged with exact page references and algebraic invariants.
 
    .. container:: home-feature-card
 
